@@ -301,6 +301,10 @@ section {
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
+  
+  
+  max-width: 57rem;
+  margin-inline: auto;
 }
 
 .section-container {
@@ -314,20 +318,20 @@ section {
   margin: auto 0;
 }
 
-/* EXPERIENCE SECTION */
+/* Skills SECTION */
 
-#experience {
+#skills {
   position: relative;
 }
 
-.experience-sub-title {
+.skills-sub-title {
   color: rgb(85, 85, 85);
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
 }
 
-.experience-details-container {
+.skills-details-container {
   display: flex;
   justify-content: center;
   flex-direction: column;

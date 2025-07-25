@@ -40,7 +40,10 @@
   .section__pic-container {
     width: 275px;
     height: 275px;
-    margin: 0 auto 2rem;
+    margin: auto auto 2rem;
+    border-radius: 100%;
+    overflow: hidden;
+    
   }
   .about-containers {
     margin-top: 0;
