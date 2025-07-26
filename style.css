@@ -318,6 +318,10 @@ section {
   margin: auto 0;
 }
 
+.education-sub-text {
+  font-size: .75rem;
+}
+
 /* Skills SECTION */
 
 #skills {
