@@ -100,4 +100,10 @@
   .text-container {
     text-align: justify;
   }
+  .about-pic{
+    max-height: 10rem;
+    max-width: 10rem;
+    margin-top: 1rem;
+    border-radius: 50%;
+  }
 }
